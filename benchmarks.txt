@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+         ALB       0.44      0.80      0.57       424
+         BET       0.00      0.00      0.00        46
+         DOL       0.00      0.00      0.00        31
+         LAG       0.00      0.00      0.00        13
+         NoF       0.12      0.06      0.08       126
+       OTHER       0.00      0.00      0.00        76
+       SHARK       0.00      0.00      0.00        46
+         YFT       0.16      0.09      0.12       183
+
+   micro avg       0.39      0.39      0.39       945
+   macro avg       0.09      0.12      0.10       945
+weighted avg       0.25      0.39      0.29       945
+
